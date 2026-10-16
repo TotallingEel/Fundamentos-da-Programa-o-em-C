@@ -18,6 +18,7 @@ C e Python: Este repositório foca em C, e futuramente criarei um dedicado a Pyt
 ## 📚 Recomendações de Leitura
 
 C: Como Programar — Paul Deitel & Harvey Deitel
+<br>
 C Completo e Total — Herbert Schildt
 
 <br>
